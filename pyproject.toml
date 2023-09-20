@@ -1,2 +1,7 @@
 [build-system]
 requires = ["scikit-build", "cmake>=3.11", "ninja", "numpy",  "pybind11[global]"]
+
+[project]
+name = "pdal"
+description = "oint cloud data processing"
+version = "3.2.3"
