@@ -1,5 +1,5 @@
 [build-system]
-requires = ["scikit-build", "cmake>=3.11", "ninja", "numpy",  "pybind11[global]==2.11.1"]
+requires = ["scikit-build", "cmake>=3.11", "ninja", "numpy",  "pybind11[global]==2.11.1", "pybind11"]
 
 [project]
 name = "pdal"
